@@ -1,4 +1,9 @@
-
+//
+//  MVC-S
+//  PostCell
+//  Created by user on 11/09/19.
+//  Copyright © 2019 BipinThakur. All rights reserved.
+//
 import UIKit
 
 class PostCell: UITableViewCell {
